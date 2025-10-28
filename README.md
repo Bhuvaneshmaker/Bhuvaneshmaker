@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhuvanesh N</h1>
-<h3 align="center">💻 Python Developer | Full Stack Developer | Embedded Integrator</h3>
+<h3 align="center">💻 Python Developer | Full Stack Web Developer | Embedded Integrator</h3>
 
 <p align="center">
 🌍 Bangalore, India | 📧 bhuvaneshmaker@gmail.com | <a href="https://github.com/Bhuvaneshmaker">github.com/Bhuvaneshmaker</a>
@@ -24,7 +24,7 @@
 `Python` `JavaScript` `HTML` `CSS` `C#`
 
 **Frameworks:**  
-`Flask` `Django` `Tkinter` `React.js` `Angular` `Node.js`
+`Flask` `Django` `Tkinter` `PyQt5` `React.js` `Angular` `Node.js`
 
 **Databases:**  
 `MySQL` `MongoDB`
