@@ -32,6 +32,7 @@
   <!-- Frameworks -->
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/PyQt5-FFB500?style=flat&logo=python&logoColor=white" alt="PyQt5"/>
   <img src="https://img.shields.io/badge/Tkinter-FFB500?style=flat&logo=python&logoColor=white" alt="Tkinter"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular"/>
