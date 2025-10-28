@@ -2,7 +2,7 @@
 <h3 align="center">💻 Python Developer | Full Stack Developer | Embedded Integrator</h3>
 
 <p align="center">
-  🌍 Bangalore, India &nbsp;|&nbsp; 📧 <a href="mailto:bhuvaneshmaker@gmail.com">bhuvaneshmaker@gmail.com</a> &nbsp;|&nbsp; <a href="https://github.com/Bhuvaneshmaker">github.com/Bhuvaneshmaker</a>
+  🌍 Hosur, India &nbsp;|&nbsp; 📧 <a href="mailto:bhuvaneshmaker@gmail.com">bhuvaneshmaker@gmail.com</a> &nbsp;|&nbsp; <a href="https://github.com/Bhuvaneshmaker">github.com/Bhuvaneshmaker</a>
 </p>
 
 ---
