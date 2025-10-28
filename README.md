@@ -45,7 +45,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🧩 [Elevator Management System (Python + Tkinter + Serial Communication)](https://github.com/Bhuvaneshmaker/Elevator_Management_System)
+#### 🧩 [Elevator Management System (Python + PyQt5 + Serial Communication)](https://github.com/Bhuvaneshmaker/Elevator_Management_System)
 Real-time desktop application integrated with embedded devices via RS485 and Digital I/O cards.  
 > Technologies: Python, Tkinter, Serial Communication, Teensy MCU, C#
 
