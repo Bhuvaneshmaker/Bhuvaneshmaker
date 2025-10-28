@@ -66,7 +66,7 @@
 
 #### 🧩 [Elevator Management System (Python + Tkinter + Serial Communication)](https://github.com/Bhuvaneshmaker/Elevator_Management_System)
 Real-time desktop application integrated with embedded devices via RS485 and Digital I/O cards.  
-> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Tkinter-FFB500?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Serial-Communication-6E40C9?style=flat"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
+> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyQt5-FFB500?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Serial-Communication-6E40C9?style=flat"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
 
 #### 🌾 [Interactive Soil Farming Web Application](https://github.com/Bhuvaneshmaker/Interactive-Soil-Farming)
 Full-stack web app for soil data management using React.js, Node.js, and MySQL.  
